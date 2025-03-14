@@ -1,4 +1,17 @@
 <template>
+
+<ul class="mt-8 pl-8">
+  <li>
+    <NuxtLink to="/use-fetch">Use Fetch</NuxtLink>
+  </li>
+  <li>
+    <NuxtLink to="/use-async-data">Use Async Data</NuxtLink>
+  </li>
+  <li>
+    <NuxtLink to="/o-fetch">OFetch</NuxtLink>
+  </li>
+</ul>
+
   <!-- Contact List-->
    <div class="w-full px-2">
     <!-- Item Contact-->
